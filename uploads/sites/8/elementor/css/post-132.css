@@ -1,0 +1,141 @@
+.elementor-132 .elementor-element.elementor-element-2797b82>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-132 .elementor-element.elementor-element-2797b82 {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-132 .elementor-element.elementor-element-2797b82>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-132 .elementor-element.elementor-element-67748e4>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 30px;
+}
+
+.elementor-132 .elementor-element.elementor-element-67748e4>.elementor-element-populated {
+    margin: 0px 40px 0px 0px;
+    --e-column-margin-right: 40px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-132 .elementor-element.elementor-element-388bcbf .dsn-heading-title {
+    max-width: 750px;
+}
+
+.elementor-132 .elementor-element.elementor-element-da33f60>.elementor-element-populated {
+    margin: 0px 0px 0px 30px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 30px;
+}
+
+.elementor-132 .elementor-element.elementor-element-1fcf1a0 {
+    overflow: hidden;
+}
+
+body:not(.rtl) .elementor-132 .elementor-element.elementor-element-7cb8ed6 {
+    left: 0px;
+}
+
+body.rtl .elementor-132 .elementor-element.elementor-element-7cb8ed6 {
+    right: 0px;
+}
+
+.elementor-132 .elementor-element.elementor-element-7cb8ed6 {
+    top: 0px;
+    z-index: 0;
+}
+
+.elementor-132 .elementor-element.elementor-element-17e7cfe {
+    position: relative;
+}
+
+.elementor-132 .elementor-element.elementor-element-2ff8102 .dsn-heading-title {
+    max-width: 750px;
+}
+
+.elementor-132 .elementor-element.elementor-element-9b1b80b {
+    overflow: hidden;
+}
+
+body:not(.rtl) .elementor-132 .elementor-element.elementor-element-3289c08 {
+    left: 0px;
+}
+
+body.rtl .elementor-132 .elementor-element.elementor-element-3289c08 {
+    right: 0px;
+}
+
+.elementor-132 .elementor-element.elementor-element-3289c08 {
+    top: 0px;
+    z-index: 0;
+}
+
+.elementor-132 .elementor-element.elementor-element-b9dcc15>.elementor-element-populated {
+    margin: 0px 15px 0px 0px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-132 .elementor-element.elementor-element-0ad7d35 {
+    position: relative;
+}
+
+.elementor-132 .elementor-element.elementor-element-0ad7d35 .img-box-parallax {
+    height: 60vh;
+}
+
+.elementor-132 .elementor-element.elementor-element-3ed5adf>.elementor-element-populated {
+    margin: 0px 0px 0px 15px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 15px;
+}
+
+.elementor-132 .elementor-element.elementor-element-3ccadde {
+    position: relative;
+}
+
+.elementor-132 .elementor-element.elementor-element-3ccadde .img-box-parallax {
+    height: 60vh;
+}
+
+@media(max-width:767px) {
+    .elementor-132 .elementor-element.elementor-element-67748e4>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-132 .elementor-element.elementor-element-da33f60>.elementor-element-populated {
+        margin: 30px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-132 .elementor-element.elementor-element-6c37079>.elementor-element-populated {
+        margin: 80px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-132 .elementor-element.elementor-element-b9dcc15>.elementor-element-populated {
+        margin: 0px 0px 30px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-132 .elementor-element.elementor-element-3ed5adf>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-132 .elementor-element.elementor-element-67748e4 {
+        width: 65%;
+    }
+    .elementor-132 .elementor-element.elementor-element-da33f60 {
+        width: 35%;
+    }
+}
